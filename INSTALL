@@ -1,0 +1,9 @@
+Building Lucycoin
+
+See doc/readme-qt.rst for instructions on building Lucycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lucycoin.
+
+See doc/build-*.txt for instructions on building lucycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lucycoin.
