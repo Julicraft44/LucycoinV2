@@ -1,7 +1,7 @@
 Lucycoin integration/staging tree
 ================================
 
-http://www.lucycoin.org
+https://lucycoin.julihost24.de
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
