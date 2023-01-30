@@ -17,10 +17,6 @@ Lucycoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm
 
 The rest is the same as Bitcoin.
  - 24 coins per block
- - retarget difficulty implemented
-
-For more information, as well as an immediately useable, binary version of
-the Lucycoin client sofware, see http://www.lucycoin.org.
 
 License
 -------
